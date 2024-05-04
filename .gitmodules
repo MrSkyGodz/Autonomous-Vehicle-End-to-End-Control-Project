@@ -1,0 +1,6 @@
+[submodule "src/perception_and_controller"]
+	path = src/perception_and_controller
+	url = https://github.com/MrSkyGodz/perception_and_controller.git
+[submodule "src/gazebo_project"]
+	path = src/gazebo_project
+	url = https://github.com/gulerburak/gazebo_project.git
