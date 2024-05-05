@@ -9,7 +9,7 @@ If you aldready cloned repository use this command to update submodules.
 git submodule update --init --recursive
 ```
 ## Objective
-Your objective is inside the [perception_and_controller.](src/perception_and_controller/README.md)
+Your objective is inside the [perception_and_controller.](https://github.com/MrSkyGodz/perception_and_controller/)
 
 ## Run Commands
 For build packages. Use this command inside of this directory.
