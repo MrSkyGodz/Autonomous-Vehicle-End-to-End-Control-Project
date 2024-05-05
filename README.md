@@ -9,4 +9,22 @@ If you aldready cloned repository use this command to update submodules.
 git submodule update --init --recursive
 ```
 ## Objective
-Your objective is inside the [project.](src/perception_and_controller/README.md)
+Your objective is inside the [perception_and_controller.](src/perception_and_controller/README.md)
+
+## Run Commands
+For build packages. Use this command inside of this directory.
+```
+colcon build
+```
+For launch smulation module.
+```
+ros2 launch gazebo_project sonoma.launch.py
+```
+For run perception module.
+```
+ros2 run perception_and_controller perception
+```
+For run controlle module
+```
+ros2 run perception_and_controller controller
+```
