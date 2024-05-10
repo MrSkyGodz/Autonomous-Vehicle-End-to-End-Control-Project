@@ -22,8 +22,8 @@ Once the repository is cloned, use the command below to update the submodules.
 ```
 git submodule update --init --recursive
 ```
-## Objective
-Your objective is inside the [perception_and_controller](https://github.com/MrSkyGodz/perception_and_controller/) module.
+## Main Task
+You are expected to specifically contribute specifically to [perception_and_controller](https://github.com/MrSkyGodz/perception_and_controller/) module and integrate them with other sections given to you in the template.
 
 ## Run Commands
 To build packages. Use the command below inside this directory.
